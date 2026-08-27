@@ -1,0 +1,12 @@
+{
+  "name": "class02",
+  "version": "1.0.0",
+  "description": "my package path module",
+  "license": "ISC",
+  "author": "saleha",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
